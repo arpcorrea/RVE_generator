@@ -1,0 +1,9 @@
+RVE:
+    Length: 10
+    Thickness: 5
+    Fibre Volumetric Fraction: 0.42
+Fibres:
+    Radius: 0.2
+Output:
+    folder: output
+    
